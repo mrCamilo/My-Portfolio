@@ -1,5 +1,8 @@
-h3{
+h3, p{
   display: flex;
+}
+
+.wordbreak{
   word-break:break-all;
 }
 
@@ -11,7 +14,7 @@ body {
 }
 
 .mainContainer{
-  width: 50%;
+  width: 60%;
   align-items: center;
   margin: auto;
   padding: 30px;
@@ -24,5 +27,6 @@ main {
 }
 
 footer{
-  align-self: flex-end
+  align-self: flex-end;
+  height: 10%;
 }
