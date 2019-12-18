@@ -22,7 +22,7 @@ function MainContent() {
             <div className="section">
                 <h5>Contact Me!</h5>
                 <p className="wordbreak">       
-                <a class="github-button" href="https://github.com/mrCamilo" aria-label="Follow @mrCamilo on GitHub">Follow @mrCamilo</a></p>
+                <a className="github-button" href="https://github.com/mrCamilo" aria-label="Follow @mrCamilo on GitHub">Follow @mrCamilo</a></p>
                 <p>Email: mcamilo@ramapo.edu</p>
             </div>
         </div>
