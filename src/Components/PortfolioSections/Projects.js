@@ -2,6 +2,7 @@ import React from 'react'
 
 function Projects() {
     return (<div className="row section">
+        <h5>Projects</h5>
         <div className="col s4">
             <div className="card">
                 <div className="card-image">
